@@ -4,8 +4,8 @@ S3 bucket link: [https://us-east-1.console.aws.amazon.com/s3/buckets/database-up
 
 Tools used:
 
-Selenium
-Webdriver manager
-pandas
-Time
-boto3
+Selenium </br>
+Webdriver manager </br>
+pandas </br>
+Time </br>
+boto3 </br>
